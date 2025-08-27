@@ -16,7 +16,7 @@ global.botNumber = '' //Ejemplo: 50374658464
 //*──ׄ✰─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['14584886621', '🩵 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 🩵', true],
+  ['14584886621', ' ꯭『 𝗖𝗿𝗲𝗮𝗱𝗼𝗿  ꯭', true],
   ['18293142989', 'Número 2', true],
   ['18290523631', 'Numero de antes', true],
   ['17869238054']
@@ -25,7 +25,7 @@ global.owner = [
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.owner_lid = [
-  [' 243349189566583', '🩵 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 🩵 (LID)', true],
+  [' 243349189566583', ' ꯭『 𝗖𝗿𝗲𝗮𝗱𝗼𝗿  ꯭ (LID)', true],
   ['149963665342644', 'Número 2 (LID)', true]
 ]
 
@@ -43,20 +43,20 @@ global.vs = '2.0.0'
 global.languaje = 'Español'
 global.nameqr = 'Yorozu Bot'
 global.sessions = 'Session'
-global.jadi = 'JadiBot'
-global.makiJadibts = true
+global.jadi = '     𝐘𝐨𝐫𝐨𝐳𝐮    Bot'
+global.    𝐘ᴏʀᴏᴢᴜ    bts = true
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.packsticker = `⏤͟͞ू⃪  ̸̷͢Yorozu 𝐁𝐨𝐭𑁯ᰍ\n`
 global.packname = `⏤͟͞ू⃪  ̸̷͢Yorozu 𝐁𝐨𝐭𑁯ᰍ`
-global.author = `socket:\n✐ Yorozu\n\nStickers Desarrollados en Deymoon Club`;
-global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Deymoon Club';
+global.author = `socket:\n✐ Yorozu\n\nStickers Desarrollados en      𝐘𝐨𝐫𝐨𝐳𝐮     Club`;
+global.wm = '⏤͟͞ू⃪  ̸̷͢𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲      𝐘𝐨𝐫𝐨𝐳𝐮     Club';
 global.titulowm = '⏤͟͞ू⃪Yorozu 𝐁𖹭t͟𑁯ᰍ';
-global.igfg = 'Deymoon Club'
+global.igfg = '     𝐘𝐨𝐫𝐨𝐳𝐮     Club'
 global.botname = 'Yorozu 𝐁𝐨𝐭 𝐌𝐃'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Deymoon Club'
-global.textbot = 'Yoro : DEYMOON CLUB'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ      𝐘𝐨𝐫𝐨𝐳𝐮     Club'
+global.textbot = 'Yoro :     𝐘ᴏʀᴏᴢᴜ     CLUB'
 global.gt = '͟͞Yorozu𝐢';
 global.namechannel = 'Yorozu 𝐂𝐡a͟𝐧n͟e͟𝐥𑁯'
 
